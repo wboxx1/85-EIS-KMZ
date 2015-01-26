@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document>
+    <name>DataPoint528.kml</name>
+    <Style id="sn_ylw-pushpin">
+      <LineStyle>
+        <color>ff0000ff</color>
+        <width>10</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f0000ff</color>
+        <colorMode>normal</colorMode>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>DataPoint528.kml</name>
+      <description>-88.9189322353221, 30.4180637522292
+-80.7 dBm</description>
+      <styleUrl>#sn_ylw-pushpin</styleUrl>
+      <LineString>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-88.9189322353221,30.4180637522292,69.3 -88.9190482956037,30.4179866418912,69.3</coordinates>
+        <tesselate>0</tesselate>
+      </LineString>
+    </Placemark>
+    <Placemark>
+      <name>backPathDataPoint528.kml</name>
+      <description>
+      </description>
+      <styleUrl>#sn_ylw-pushpin</styleUrl>
+      <LineString>
+        <extrude>0</extrude>
+        <altitudeMode>relativeToGround</altitudeMode>
+        <coordinates>-88.9190482956037,30.4179866418912,69.3 -88.9189322353221,30.4180637522292,69.3</coordinates>
+        <tesselate>0</tesselate>
+      </LineString>
+    </Placemark>
+  </Document>
+</kml>

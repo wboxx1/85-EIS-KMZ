@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Csv2KmlConverter
+</name>
+</assembly>
+<members>
+<member name="M:Csv2KmlConverter.DistanceCalculatorController.run(System.String,System.String,System.String,System.String)">
+	<summary>
+	</summary>
+	<param name="aLatitude1"></param>
+	<param name="aLongitude1"></param>
+	<param name="aLatitude2"></param>
+	<param name="aLongitude2"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:Csv2KmlConverter.MainController.convertCsvToKml">
+	<summary>
+ this function is used when the '.mgps and csv file' check box is checked
+ this output is from RFCAT program
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Csv2KmlConverter.MainController.createArraysFrom6columnCsv">
+	<summary>
+ this function is used if just a csv is being used and not a .mgps and a .csv from mancat
+ </summary>
+	<remarks></remarks>
+</member><member name="P:Csv2KmlConverter.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Csv2KmlConverter.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Csv2KmlConverter.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

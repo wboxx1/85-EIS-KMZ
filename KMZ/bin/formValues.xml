@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MainFormValuesObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <passColor>Green</passColor>
+  <failColor>Red</failColor>
+  <threshColor>Yellow</threshColor>
+  <passColorHex>ff00ff00</passColorHex>
+  <failColorHex>ff0000ff</failColorHex>
+  <threshColorHex>ff00ffff</threshColorHex>
+  <passCustomColors>
+    <color0>16777215</color0>
+    <color1>16777215</color1>
+    <color2>16777215</color2>
+    <color3>16777215</color3>
+    <color4>16777215</color4>
+    <color5>16777215</color5>
+    <color6>16777215</color6>
+    <color7>16777215</color7>
+    <color8>16777215</color8>
+    <color9>16777215</color9>
+    <color10>16777215</color10>
+    <color11>16777215</color11>
+    <color12>16777215</color12>
+    <color13>16777215</color13>
+    <color14>16777215</color14>
+    <color15>16777215</color15>
+  </passCustomColors>
+  <failCustomColors>
+    <color0>16777215</color0>
+    <color1>16777215</color1>
+    <color2>16777215</color2>
+    <color3>16777215</color3>
+    <color4>16777215</color4>
+    <color5>16777215</color5>
+    <color6>16777215</color6>
+    <color7>16777215</color7>
+    <color8>16777215</color8>
+    <color9>16777215</color9>
+    <color10>16777215</color10>
+    <color11>16777215</color11>
+    <color12>16777215</color12>
+    <color13>16777215</color13>
+    <color14>16777215</color14>
+    <color15>16777215</color15>
+  </failCustomColors>
+  <threshholdCustomColors>
+    <color0>0</color0>
+    <color1>0</color1>
+    <color2>0</color2>
+    <color3>0</color3>
+    <color4>0</color4>
+    <color5>0</color5>
+    <color6>0</color6>
+    <color7>0</color7>
+    <color8>0</color8>
+    <color9>0</color9>
+    <color10>0</color10>
+    <color11>0</color11>
+    <color12>0</color12>
+    <color13>0</color13>
+    <color14>0</color14>
+    <color15>0</color15>
+  </threshholdCustomColors>
+  <mgps>false</mgps>
+  <spatialDecimate>true</spatialDecimate>
+  <useThreshold>false</useThreshold>
+  <threshold>-80</threshold>
+  <systemLoss>0</systemLoss>
+  <units>dBm</units>
+  <spatialDistance>10</spatialDistance>
+  <inputDirectory>C:\1\Grissom Test Results\</inputDirectory>
+  <outputDirectory>C:\1\Grissom Test Results\</outputDirectory>
+  <projectName>GrissomTEst</projectName>
+  <visualStyle>Line String</visualStyle>
+  <thresholdLineThickness>1</thresholdLineThickness>
+</MainFormValuesObject>

@@ -1,0 +1,13 @@
+C:\Users\emc\Documents\Visual Studio 2010\Projects\Mancat2KmlConverter\Mancat2KmlConverter\obj\Debug\Csv2KmlConverter.exe
+C:\Users\emc\Documents\Visual Studio 2010\Projects\Mancat2KmlConverter\Mancat2KmlConverter\obj\Debug\Csv2KmlConverter.xml
+C:\Users\emc\Documents\Visual Studio 2010\Projects\Mancat2KmlConverter\Mancat2KmlConverter\obj\Debug\Csv2KmlConverter.pdb
+C:\Users\emc\Documents\Visual Studio 2010\Projects\Mancat2KmlConverter\Mancat2KmlConverter\bin\Debug\Csv2KmlConverter.exe
+C:\Users\emc\Documents\Visual Studio 2010\Projects\Mancat2KmlConverter\Mancat2KmlConverter\bin\Debug\Csv2KmlConverter.pdb
+C:\Users\emc\Documents\Visual Studio 2010\Projects\Mancat2KmlConverter\Mancat2KmlConverter\bin\Debug\Csv2KmlConverter.xml
+C:\Users\emc\Documents\Visual Studio 2010\Projects\Mancat2KmlConverter\Mancat2KmlConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\emc\Documents\Visual Studio 2010\Projects\Mancat2KmlConverter\Mancat2KmlConverter\obj\Debug\Csv2KmlConverter.MainForm.resources
+C:\Users\emc\Documents\Visual Studio 2010\Projects\Mancat2KmlConverter\Mancat2KmlConverter\obj\Debug\Csv2KmlConverter.Resources.resources
+C:\Users\emc\Documents\Visual Studio 2010\Projects\Mancat2KmlConverter\Mancat2KmlConverter\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\emc\Documents\Visual Studio 2010\Projects\Mancat2KmlConverter\Mancat2KmlConverter\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\emc\Documents\Visual Studio 2010\Projects\Mancat2KmlConverter\Mancat2KmlConverter\obj\Debug\Csv2KmlConverter.exe.licenses
+C:\Users\emc\Documents\Visual Studio 2010\Projects\Mancat2KmlConverter\Mancat2KmlConverter\bin\Debug\Csv2KmlConverter.exe.config

@@ -1,0 +1,12 @@
+C:\Users\emc\documents\visual studio 2010\Projects\Csv2KmlConverter\Csv2KmlConverter\bin\Debug\Csv2KmlConverter.exe
+C:\Users\emc\documents\visual studio 2010\Projects\Csv2KmlConverter\Csv2KmlConverter\bin\Debug\Csv2KmlConverter.pdb
+C:\Users\emc\documents\visual studio 2010\Projects\Csv2KmlConverter\Csv2KmlConverter\bin\Debug\Csv2KmlConverter.xml
+C:\Users\emc\documents\visual studio 2010\Projects\Csv2KmlConverter\Csv2KmlConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\emc\documents\visual studio 2010\Projects\Csv2KmlConverter\Csv2KmlConverter\obj\Debug\Csv2KmlConverter.MainForm.resources
+C:\Users\emc\documents\visual studio 2010\Projects\Csv2KmlConverter\Csv2KmlConverter\obj\Debug\Csv2KmlConverter.Resources.resources
+C:\Users\emc\documents\visual studio 2010\Projects\Csv2KmlConverter\Csv2KmlConverter\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\emc\documents\visual studio 2010\Projects\Csv2KmlConverter\Csv2KmlConverter\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\emc\documents\visual studio 2010\Projects\Csv2KmlConverter\Csv2KmlConverter\obj\Debug\Csv2KmlConverter.exe.licenses
+C:\Users\emc\documents\visual studio 2010\Projects\Csv2KmlConverter\Csv2KmlConverter\obj\Debug\Csv2KmlConverter.exe
+C:\Users\emc\documents\visual studio 2010\Projects\Csv2KmlConverter\Csv2KmlConverter\obj\Debug\Csv2KmlConverter.xml
+C:\Users\emc\documents\visual studio 2010\Projects\Csv2KmlConverter\Csv2KmlConverter\obj\Debug\Csv2KmlConverter.pdb

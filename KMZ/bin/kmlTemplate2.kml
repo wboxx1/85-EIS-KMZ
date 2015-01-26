@@ -1,0 +1,39 @@
+ <Document>
+	<name>Kml Template.kml</name>
+    <Style id="sn_ylw-pushpin">
+		<LineStyle>
+			<color>ff0000ff</color>
+			<width>10</width>
+		</LineStyle>
+    <PolyStyle>
+      <color></color>
+      <colorMode>normal</colorMode>
+      <fill>1</fill>
+      <outline>1</outline>
+    </PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Kml Template.kml</name>
+    <description></description>
+		<styleUrl>#sn_ylw-pushpin</styleUrl>
+		<LineString>
+			<extrude>0</extrude>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>
+			</coordinates>
+			<tesselate>0</tesselate>
+		</LineString>
+	</Placemark>
+  <Placemark>
+    <name>Kml Template.kml</name>
+    <description></description>
+    <styleUrl>#sn_ylw-pushpin</styleUrl>
+    <LineString>
+      <extrude>0</extrude>
+      <altitudeMode>relativeToGround</altitudeMode>
+      <coordinates>
+      </coordinates>
+      <tesselate>0</tesselate>
+    </LineString>
+  </Placemark>
+</Document>

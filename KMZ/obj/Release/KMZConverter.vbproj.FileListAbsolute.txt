@@ -1,0 +1,14 @@
+C:\Users\Boxx\Source\Repos\85-EIS-KMZ\KMZ\bin\Debug\KMZConverter.exe.config
+C:\Users\Boxx\Source\Repos\85-EIS-KMZ\KMZ\bin\Debug\KMZConverter.exe
+C:\Users\Boxx\Source\Repos\85-EIS-KMZ\KMZ\bin\Debug\KMZConverter.pdb
+C:\Users\Boxx\Source\Repos\85-EIS-KMZ\KMZ\bin\Debug\KMZConverter.xml
+C:\Users\Boxx\Source\Repos\85-EIS-KMZ\KMZ\obj\Release\KMZConverter.vbprojResolveAssemblyReference.cache
+C:\Users\Boxx\Source\Repos\85-EIS-KMZ\KMZ\obj\Release\KMZConverter.ConfigForm.resources
+C:\Users\Boxx\Source\Repos\85-EIS-KMZ\KMZ\obj\Release\KMZConverter.MainForm.resources
+C:\Users\Boxx\Source\Repos\85-EIS-KMZ\KMZ\obj\Release\KMZConverter.Resources.resources
+C:\Users\Boxx\Source\Repos\85-EIS-KMZ\KMZ\obj\Release\KMZConverter.ProgressForm.resources
+C:\Users\Boxx\Source\Repos\85-EIS-KMZ\KMZ\obj\Release\KMZConverter.vbproj.GenerateResource.Cache
+C:\Users\Boxx\Source\Repos\85-EIS-KMZ\KMZ\obj\Release\KMZConverter.exe.licenses
+C:\Users\Boxx\Source\Repos\85-EIS-KMZ\KMZ\obj\Release\KMZConverter.exe
+C:\Users\Boxx\Source\Repos\85-EIS-KMZ\KMZ\obj\Release\KMZConverter.xml
+C:\Users\Boxx\Source\Repos\85-EIS-KMZ\KMZ\obj\Release\KMZConverter.pdb

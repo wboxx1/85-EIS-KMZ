@@ -1,0 +1,79 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Csv2KmlConverter
+</name>
+</assembly>
+<members>
+<member name="P:Csv2KmlConverter.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Csv2KmlConverter.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Csv2KmlConverter.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:Csv2KmlConverter.MainController.aMgpsFile">
+	<summary>
+ Needed for mgps
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Csv2KmlConverter.MainController.convertCsvToKml">
+	<summary>
+ this function is used when the '.mgps and csv file' check box is checked
+ this output is from RFCAT program
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Csv2KmlConverter.MainController.createArraysFrom6columnCsv">
+	<summary>
+ this function is used if just a csv is being used and not a .mgps and a .csv from mancat
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Csv2KmlConverter.MainController.getCSV">
+	<summary>
+ Gets CSV file from user
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Csv2KmlConverter.MainController.ParseCSV">
+	<summary>
+ Read through CSV and add data for each line to a point object then add all point objects to point list
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Csv2KmlConverter.MainController.ParsePointList">
+	<summary>
+ Parse Point List and create KML object
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Csv2KmlConverter.MainController.GetTargetDirectory">
+	<summary>
+ Prompt user for target directory to save kml file
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Csv2KmlConverter.MainController.SerializeKML">
+	<summary>
+ Serializes data in kml object to a .kml file
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Csv2KmlConverter.MainController.AnounceCompletion">
+	<summary>
+ Displys pop up anouncing completion.  Plays sound 
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Csv2KmlConverter.DistanceCalculatorController.run(System.String,System.String,System.String,System.String)">
+	<summary>
+	</summary>
+	<param name="aLatitude1"></param>
+	<param name="aLongitude1"></param>
+	<param name="aLatitude2"></param>
+	<param name="aLongitude2"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
