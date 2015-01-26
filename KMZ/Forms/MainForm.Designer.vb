@@ -572,10 +572,11 @@ Partial Class MainForm
         Me.Controls.Add(Me.txtBxMGPSfile)
         Me.Controls.Add(Me.GroupBox1)
         Me.Controls.Add(Me.MenuStrip1)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MainMenuStrip = Me.MenuStrip1
         Me.Margin = New System.Windows.Forms.Padding(2)
         Me.Name = "MainForm"
-        Me.Text = "Main"
+        Me.Text = "KMZ Converter"
         CType(Me.NumUpDwnSensitivityThreshold, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.NumUpDwnSysLossFactor, System.ComponentModel.ISupportInitialize).EndInit()
         CType(Me.NumericUpDownThreshLineThickness, System.ComponentModel.ISupportInitialize).EndInit()
